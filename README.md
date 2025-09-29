@@ -33,11 +33,5 @@ I adore <img src="https://raw.githubusercontent.com/danielcranney/readme-generat
 <a href="https://github.com/vitalyKolod" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalyKolod&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-
-### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vitalyKolod&theme=dark)](https://git.io/streak-stats)
-
-
-
 ### Socials
 * ✉️  You can contact me at [kolodchenkovitaly250@gmail.com](mailto:kolodchenkovitaly250@gmail.com)
