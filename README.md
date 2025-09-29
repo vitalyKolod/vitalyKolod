@@ -1,9 +1,8 @@
-## Hi there 👋
 
 
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vitaly Kolodchenko </br>
+Hi 👋 My name is Vitaly Kolodchenko </br>
  I'm a Fullstak developer I'm based in Russia and
 I adore <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
 ===========================================================================================================================================
