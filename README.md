@@ -6,7 +6,7 @@ Hi 👋 My name is Vitaly Kolodchenko </br>
  I'm a Fullstak developer I'm based in Russia and
 I adore <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
 ===========================================================================================================================================
- <a href="https://t.me/vitaly_kolodchenko" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/> </a> <a href="https://instagram.com/kolod_vitalii_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/> </a> 
+ <a href="https://t.me/vitaly_kolodchenko" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/> </a> <a href="https://instagram.com/kolod_vitalii" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/> </a> 
 
 
 ### MY SKILLS
